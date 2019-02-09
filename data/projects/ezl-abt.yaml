@@ -1,0 +1,8 @@
+modalID: 2
+title: EZ-Link
+date: 2018-2019
+img: ezl-logo.jpg
+client: Ez-Link
+clientLink: "https://www.ezlink.com.sg/"
+category: Backend Architecture & Implementation, Cloud Migration, DevOps
+description: EZ-Link is facing the transformative challenges of Singapores agenda to become a cashless nation.<br/>The IT infrastructure of the company is in the progress of modernization and building new products.<br/>REDSHIP played a major role in EZ-Link successful effort to move to the cloud (Azure) and adopt modern development practises (e.g. version control with git, deployment via docker containers).<br/>REDSHIP lead architecture and development efforts for the NTA (Non Transit Acquirers) and ABT (Account Based Ticketing) projects, coordinating development with the involved parties such as LTA (Land Transport Authority), Wirecard and Microsoft.

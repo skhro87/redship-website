@@ -1,0 +1,8 @@
+modalID: 4
+title: SportsHero
+date: 2016
+img: sportshero-logo.jpg
+client: SportsHero
+clientLink: "https://sportshero.live/"
+category: Backend Architecture & Implementation
+description: REDSHIP planned and implemented the entire backend architecture of the sports prediction mobile app SportsHero.<br/>It included database schema design, data import from third parties and REST API development.<br/>After launching, SportsHero grew quickly to over 300000 users and raised $2.5M through listing on ASX early 2017.
